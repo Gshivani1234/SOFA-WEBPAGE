@@ -1,0 +1,31 @@
+p
+{
+	text-align: center;
+	font-size: 250%;
+}
+h1 {
+    font-size: 70px;
+}
+.groove{
+	border-top: 2px solid grey;
+	border-bottom: 2px solid grey; 
+	font-size: 30px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-right: 50px;
+	margin-left: 50px;  
+}
+table{
+	border: 1px solid #FFFFFF;
+	padding-right: 0px;
+}
+td{
+	border: 1px solid #FFFFFF;
+	padding-right: 50px;
+	padding-left: 50px;
+}
+th{
+   border: 1px solid #FFFFFF;	
+   font-size: 30px;
+   padding right: 10px;
+}
